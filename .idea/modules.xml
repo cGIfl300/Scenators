@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Scénateurs.iml" filepath="$PROJECT_DIR$/.idea/Scénateurs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Scenators.iml" filepath="$PROJECT_DIR$/.idea/Scenators.iml" />
     </modules>
   </component>
 </project>
